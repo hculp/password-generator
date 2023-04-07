@@ -89,7 +89,6 @@ var generatePassword = function() {
     newpass += `${setCharacters.charAt(generate)}`;
 
   }
-  console.log(newpass);
-  console.log(newpass.length);
+
   return newpass;
 };
