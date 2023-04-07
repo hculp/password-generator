@@ -10,5 +10,6 @@ Once the user has selected all the password criteria, the password is generated 
 
 ## Link and Preview
 
+https://hculp.github.io/password-generator/
 
 ![Preview Site Image](./assets/images/passwordgeneratorsitepreview.png)
